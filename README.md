@@ -53,22 +53,6 @@ Versatile across **Vue** (my primary lately) and **React** ecosystems — happy 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-### 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OzamaGenova&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Ozama's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzamaGenova&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Ozama's GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzamaGenova&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="60%" />
-</div>
-
-> *Stats include private commits where possible — dark theme for that dev vibe*
-
----
-
 ### 🚀 Key Projects & Experience
 
 - **Audio/Media Platform**  
